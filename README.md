@@ -10,9 +10,6 @@ Features a modern glassmorphism design, animated gradient background, and advanc
 - 🧮 Extra functions: Percentage `%`, Square root `√`, Square `x²`
 - ⌨️ Keyboard support for quick calculations
 
-## 🚀 Live Demo
-[Click here to try it!](https://your-Dalielkady.github.io/Elegant-Calculator/)
-
 ## 🛠️ Technologies Used
 - HTML5 — Structure
 - CSS3 — Styling & responsive design
@@ -29,6 +26,6 @@ Elegant-Calculator/
 
 ## 👩‍💻 Author
 Dalia Elkady — Frontend Developer  
-[LinkedIn](linkedin.com/in/dalia-elkady-7665222a5)
+
 
 
