@@ -16,9 +16,10 @@ Features a modern glassmorphism design, animated gradient background, and advanc
 - JavaScript (Vanilla) — Functionality
 
 ## 📂 Project Structure
-Elegant-Calculator/
+├── index.html # Main calculator layout
+├── style.css # Styling & animations
+└── script.js # Calculator logic
 
- 
 ## 💡 How to Use
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
